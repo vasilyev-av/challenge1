@@ -3,7 +3,7 @@
 void challengePrint(int start, int end);
 
 void main() {
-    challengePrint(0,1000);
+    challengePrint(1,1000);
 }
 
 void challengePrint(int start, int end) {
