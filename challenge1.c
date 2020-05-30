@@ -8,6 +8,6 @@ void main() {
 
 void challengePrint(int start, int end) {
     printf("%d\n",start);
-    int d = 1/(end-start);
+    int end = 1/(end-start);
     challengePrint(++start,end);
 }
